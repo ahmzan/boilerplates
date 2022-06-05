@@ -1,0 +1,3 @@
+[submodule "minio-docker"]
+	path = minio-docker
+	url = git@github.com:ahmzan/minio-docker
